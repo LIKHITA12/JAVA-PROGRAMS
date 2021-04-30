@@ -45,3 +45,14 @@ public class LongestCommonPrefixClass
 		
 	}
 }
+
+
+/******************************************************************************
+OUTPUT
+
+Longest Common prefix in the TestCase1: flow                                                                            
+Longest Common prefix in the TestCase2:                                                                                 
+Longest Common prefix in the TestCase3:                                                                                 
+ 
+*******************************************************************************/
+

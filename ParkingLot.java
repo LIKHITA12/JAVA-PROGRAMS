@@ -31,3 +31,15 @@ public class ParkingLot
 		System.out.println("Add Car at Medium Car Slot : " + park.addCar(2));
 	}
 }
+
+
+/******************************************************************************
+OUTPUT
+
+Add Car at Big Car Slot : Added                                                                                         
+Add Car at Medium Car Slot : Added                                                                                      
+Add Car at Small Car Slot : No Space Available                                                                          
+Add Car at Big Car Slot : No Space Available                                                                            
+Add Car at Medium Car Slot : No Space Available 
+
+*******************************************************************************/
